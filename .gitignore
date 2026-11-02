@@ -1,0 +1,11 @@
+# Data files (download separately from the course project source)
+*.csv
+*.xlsx
+*.zip
+Data/
+
+# Saved models
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
